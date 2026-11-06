@@ -2,7 +2,7 @@
 
 from typing import Any
 
-from .db import InMemoryDatabase
+from src.db import InMemoryDatabase
 
 
 class RecordService:
